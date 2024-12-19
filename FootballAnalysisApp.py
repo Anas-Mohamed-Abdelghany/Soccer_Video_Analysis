@@ -144,7 +144,7 @@ class VideoAnalyzerGUI:
         self.root.geometry("800x600")
         
         self.paths = {"video": "", "field": "", "output": "output_video.avi"}
-        self.tracker = ObjectTracker("models/yolov5.pt")
+        self.tracker = ObjectTracker("models/yolov5s.pt")
         self.frames = []
         self.tracks = None
         self.player_ids = {}
