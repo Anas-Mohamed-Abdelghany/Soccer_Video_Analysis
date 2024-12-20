@@ -1,7 +1,5 @@
-https://github.com/user-attachments/assets/a1d71131-3977-4e41-a35f-acc865b4c655
 # AI Soccer Analyzer ⚽
-
-<img src="screenshots/tracking_demo.png" width="600">
+<img width="960" alt="Screenshot 2024-10-30 173050" src="https://github.com/user-attachments/assets/a2dc4842-fba5-44b5-8c4c-3b6acbbe8265" />
 
 ## 🎯 System Overview
 Real-time player tracking and analysis system using AI.
@@ -29,5 +27,4 @@ Real-time player tracking and analysis system using AI.
 - Tracking reliability
 
 ## 🎥 Live Demo
-
-Uploading 20241030164748.mp4…
+https://github.com/user-attachments/assets/a1d71131-3977-4e41-a35f-acc865b4c655
